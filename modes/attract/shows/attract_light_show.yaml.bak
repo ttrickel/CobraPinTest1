@@ -1,0 +1,281 @@
+#show_version=6
+
+- duration: 1
+  lights:
+    l_re-entry_left: red
+    l_re-entry_middle: red
+    l_re-entry_right: red
+    l_attack_bumper_left: red
+    l_attack_bumper_middle: red
+    l_attack_bumper_right: red
+
+    
+- duration: 1
+  lights:
+    l_re-entry_left: green
+    l_re-entry_middle: green
+    l_re-entry_right: green
+    l_attack_bumper_left: green
+    l_attack_bumper_middle: green
+    l_attack_bumper_right: green
+     
+- duration: 1
+  lights:
+    l_re-entry_left: blue
+    l_re-entry_middle: blue
+    l_re-entry_right: blue
+    l_attack_bumper_left: blue
+    l_attack_bumper_middle: blue
+    l_attack_bumper_right: blue
+     
+- duration: 1ms
+  lights:
+    l_re-entry_left: off
+    l_re-entry_middle: off
+    l_re-entry_right: off
+    l_attack_bumper_left: off
+    l_attack_bumper_middle: off
+    l_attack_bumper_right: off
+     
+- duration: 10ms
+  lights:
+     test1: aqua
+- duration: 10ms
+  lights:
+     test1: off
+     test2: aqua
+- duration: 10ms
+  lights:
+     test2: off
+     test3: aqua
+- duration: 10ms
+  lights:
+     test3: off
+     test4: aqua
+- duration: 10ms
+  lights:
+     test4: off
+     test5: aqua
+- duration: 10ms
+  lights:
+     test5: off
+     test6: aqua
+- duration: 10ms
+  lights:
+     test6: off
+     test7: aqua
+- duration: 10ms
+  lights:
+     test7: off
+     test8: aqua
+- duration: 10ms
+  lights:
+     test8: off
+     test9: aqua
+- duration: 10ms
+  lights:
+     test9: off
+     test10: aqua
+- duration: 10ms
+  lights:
+     test10: off
+     test11: aqua
+- duration: 10ms
+  lights:
+     test11: off
+     test12: aqua
+- duration: 10ms
+  lights:
+     test12: off
+     test13: aqua
+- duration: 10ms
+  lights:
+     test13: off
+     test14: aqua
+- duration: 10ms
+  lights:
+     test14: off
+     test15: aqua
+- duration: 10ms
+  lights:
+     test15: off
+     test16: aqua
+- duration: 10ms
+  lights:
+     test16: off
+     test17: aqua
+- duration: 10ms
+  lights:
+     test17: off
+     test18: aqua
+- duration: 10ms
+  lights:
+     test18: off
+     test19: aqua
+- duration: 10ms
+  lights:
+     test19: off
+     test20: aqua
+- duration: 10ms
+  lights:
+     test20: off
+     test21: aqua
+- duration: 10ms
+  lights:
+     test21: off
+     test22: aqua
+- duration: 10ms
+  lights:
+     test22: off
+     test23: aqua
+- duration: 10ms
+  lights:
+     test23: off
+     test24: aqua
+- duration: 10ms
+  lights:
+     test24: off
+     test25: aqua
+- duration: 10ms
+  lights:
+     test25: off
+     test26: aqua
+- duration: 10ms
+  lights:
+     test26: off
+     test27: aqua
+- duration: 10ms
+  lights:
+     test27: off
+     test28: aqua
+- duration: 10ms
+  lights:
+     test28: off
+     test29: aqua
+- duration: 10ms
+  lights:
+     test29: off
+     test30: aqua
+- duration: 10ms
+  lights:
+     test30: off
+     test31: aqua
+- duration: 10ms
+  lights:
+     test31: off
+     test32: aqua
+- duration: 10ms
+  lights:
+     test32: off
+     test33: aqua
+- duration: 10ms
+  lights:
+     test33: off
+     test34: aqua
+- duration: 10ms
+  lights:
+     test34: off
+     test35: aqua
+- duration: 10ms
+  lights:
+     test35: off
+     test36: aqua
+- duration: 10ms
+  lights:
+     test36: off
+     test37: aqua
+- duration: 10ms
+  lights:
+     test37: off
+     test38: aqua
+- duration: 10ms
+  lights:
+     test38: off
+     test39: aqua
+- duration: 10ms
+  lights:
+     test39: off
+     test40: aqua
+- duration: 10ms
+  lights:
+     test40: off
+     test41: aqua
+- duration: 10ms
+  lights:
+     test41: off
+     test42: aqua
+- duration: 10ms
+  lights:
+     test42: off
+     test43: aqua
+- duration: 10ms
+  lights:
+     test43: off
+     test44: aqua
+- duration: 10ms
+  lights:
+     test44: off
+     test45: aqua
+- duration: 10ms
+  lights:
+     test45: off
+     test46: aqua
+- duration: 10ms
+  lights:
+     test46: off
+     test47: aqua
+- duration: 10ms
+  lights:
+     test47: off
+     test48: aqua
+- duration: 10ms
+  lights:
+     test48: off
+     test49: aqua
+- duration: 10ms
+  lights:
+     test49: off
+     test50: aqua
+- duration: 10ms
+  lights:
+     test50: off
+     test51: aqua
+- duration: 10ms
+  lights:
+     test51: off
+     test52: aqua
+- duration: 10ms
+  lights:
+     test52: off
+     test53: aqua
+- duration: 10ms
+  lights:
+     test53: off
+     test54: aqua
+- duration: 10ms
+  lights:
+     test54: off
+     test55: aqua
+- duration: 10ms
+  lights:
+     test55: off
+     test56: aqua
+- duration: 10ms
+  lights:
+     test56: off
+     test57: aqua
+- duration: 10ms
+  lights:
+     test57: off
+     test58: aqua
+- duration: 10ms
+  lights:
+     test58: off
+     test59: aqua
+- duration: 10ms
+  lights:
+     test59: off
+     test60: aqua
+- duration: 10ms
+  lights:
+     test60: off
